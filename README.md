@@ -3,7 +3,7 @@ A Flutter app showcasing a list of popular movies from MovieDB.
 
 I have covered the following importamt topics in this app:
 
-- Repository and BLoC pattern
+- Repository and BLoC pattern (without Bloc library)
 
 - Separating UI and business logic
 
